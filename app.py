@@ -35,6 +35,8 @@ def get_completion(prompt):
     if response.status_code == 200:
         response_json = response.json()
         return response_json['choices'][0]['message']['content']
+    elif prompt == "":
+        return "Hey! you missed to type something!"
     else:
         return "Error: API loading failed."
 
@@ -54,4 +56,4 @@ def chat():
     return render_template("chat.html")
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
