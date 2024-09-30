@@ -4,6 +4,11 @@
 
 [Presentation @ VandyHacks XI](https://www.canva.com/design/DAGSEfc1Fn4/qpJavwEB_dLSZUOodq-Uaw/edit?utm_content=DAGSEfc1Fn4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+# Contributors:
+- Manoj Bagale
+- Zeal Okechukwu Achonu
+- Osewuike Igue
+
 ## Prerequisites
 - Basic understanding of Python programming
 - Familiarity with web development and APIs
