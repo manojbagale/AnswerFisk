@@ -1,6 +1,7 @@
 # AnswerFisk | Reimagining the Digital Experience at Fisk University
 
 [Project Documentation @ NOTION](https://chill-minute-c07.notion.site/Team-AnswerFisk-VANDYHACKS-XI-Sep-24-5d89d481a1a44395900d0f2023af1634)
+[Presentation @ VandyHacks XI](https://www.canva.com/design/DAGSEfc1Fn4/qpJavwEB_dLSZUOodq-Uaw/edit?utm_content=DAGSEfc1Fn4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Prerequisites
 - Basic understanding of Python programming
