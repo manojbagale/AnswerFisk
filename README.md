@@ -128,6 +128,6 @@
 - Integration with Meta's Llama model for AI-powered responses
 
 ## Some screenshots: 
-![AnswerFisk](static/images/Screenshot(144).png "AnswerFisk Logo")
-![AnswerFisk](static/images/Screenshot(146).png "AnswerFisk Logo")
+![AnswerFisk](static/assets/Screenshot(144).png "AnswerFisk Logo")
+![AnswerFisk](static/assets/Screenshot(146).png "AnswerFisk Logo")
 
