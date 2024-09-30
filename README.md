@@ -110,7 +110,7 @@
          app.run()
      ```
 
-   - Design `home.html` for the chatbot interface within the `templates/` folder.
+   - Design `home.html` and `chat.html` for the chatbot interface within the `templates/` folder.
    - Set your API key as an environment variable:
      ```bash
      export API_KEY='your-api-key-here'
