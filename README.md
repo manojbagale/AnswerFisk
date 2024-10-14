@@ -9,6 +9,10 @@
 - Zeal Okechukwu Achonu
 - Osewuike Igue
 
+# Screenshots:
+![Screenshot (167)](https://github.com/user-attachments/assets/75d29feb-edf6-4f72-93af-0d9bcd90b0d4)
+![Screenshot (168)](https://github.com/user-attachments/assets/f48a499e-7e9a-4fe3-b06b-c5118dacd58c)
+
 ## Prerequisites
 - Basic understanding of Python programming
 - Familiarity with web development and APIs
