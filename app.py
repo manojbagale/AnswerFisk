@@ -2,7 +2,7 @@ from flask import Flask, render_template, request
 import requests
 
 app = Flask(__name__)
-api_key = "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"  
+api_key = "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"  
 
 def get_completion(prompt):
     url = "https://api.perplexity.ai/chat/completions"
@@ -13,7 +13,7 @@ def get_completion(prompt):
             {"role": "user", "content": prompt},
         ],
         "max_tokens": 84,  
-        "temperature": 0.7,
+        "temperature": 0.2,
         "top_p": 0.9,
         "return_citations": True,
         "search_domain_filter": ["perplexity.ai"],
