@@ -38,7 +38,7 @@ def get_completion(prompt):
     elif prompt == "":
         return "Hey! you missed to type something!"
     else:
-        return "Error: API loading failed."
+        return "Error: API loading failed. Try Again"
 
 @app.route("/")
 @app.route("/home")
